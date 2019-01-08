@@ -1,5 +1,4 @@
 # MangOH_DirectFB
-
 1. Clone DirectFB Source
 ```
 	git clone https://github.com/DirectFB/directfb
@@ -8,7 +7,6 @@
 ```
 	apt-get install libtool
 ```
-
 3.Install Flux	
 ```	
 	cd ../flux
