@@ -7,7 +7,7 @@
 ```
 	apt-get install libtool
 ```
-3.Install Flux	
+3. Install Flux	
 ```	
 	cd ../flux
  	autoreconf -fi
