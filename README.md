@@ -4,13 +4,16 @@
 1. Clone DirectFB Source
   git clone https://github.com/DirectFB/directfb
   
-2. Install requiment package:	
-    apt-get install libtool
+2. Install requiment package:
 
+		apt-get install libtool
+		
 3.Install Flux	
-  cd ../flux
+	
+	cd ../flux
  	autoreconf -fi
 	./configure
 	make 
-4, Install DirectFB	
-Run AutoGen
+4, Install DirectFB
+
+	Run AutoGen
