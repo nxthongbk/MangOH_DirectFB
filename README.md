@@ -1,12 +1,13 @@
 # MangOH_DirectFB
 # Step to install DirectFB
 
-1. Clone DirectFB Source
-	
-	git clone https://github.com/DirectFB/directfb
-  
 
-2. Install requiment package:
+
+1. Clone DirectFB Source
+	git clone https://github.com/DirectFB/directfb
+
+2. Install requiment package:	
+
 	apt-get install libtool
 		
 3.Install Flux	
@@ -15,6 +16,6 @@
  	autoreconf -fi
 	./configure
 	make 
-4, Install DirectFB
+4. Install DirectFB
 
 	Run AutoGen
