@@ -1,5 +1,4 @@
 # MangOH_DirectFB
-# Step to install DirectFB
 
 1. Clone DirectFB Source
 ```
