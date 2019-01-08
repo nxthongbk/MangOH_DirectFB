@@ -7,4 +7,10 @@
 2. Install requiment package:
     apt-get install libtool
 
-3. Run AutoGen
+3.Install Flux
+  cd ../flux
+ 	autoreconf -fi
+	./configure
+	make 
+4, Install DirectFB
+Run AutoGen
