@@ -4,7 +4,7 @@
 1. Clone DirectFB Source
   git clone https://github.com/DirectFB/directfb
   
-2. Install requiment package
-  apt-get install libtool
+2. Install requiment package:
+    apt-get install libtool
 
 3. Run AutoGen
