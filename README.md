@@ -20,3 +20,4 @@
 ```
 	Run AutoGen
 ```
+5. Develop sample app
